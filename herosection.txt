@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 the changes have been added now by vnrvjiet
-=======
 okay
 the changes have been added now
->>>>>>> f8afee1 (okay)
-=======
+f8afee1 (okay)
 okaygit push
 
 the changes have been added now
->>>>>>> 28c3106 (okay)
+ 28c3106 (okay)
